@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Oxyrate</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="news">News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detect">Detection</string>
+    <string name="heartrate">Heart Rate</string>
+    <string name="nilai">120</string>
+    <string name="bpm">bpm</string>
+    <string name="Status">Status :</string>
+    <string name="normal">Normal</string>
+    <string name="Celcius">°C</string>
+    <string name="Persen">%</string>
+    <string name="temperature">Temperature</string>
+    <string name="spo">SpO2</string>
+    <string name="greet">Hi Wellcome back</string>
+    <string name="name">Adhar Aufa</string>
+    <string name="title_logo">Oxyrate</string>>
+    <string name="tips">Tips</string>
+    <string name="disorder">Disorder</string>
+    <string name="Headlines">Tips menghindari kelelahan saat olahraga</string>
+    <string name="TipsDesc">If your goal is fat loss, incorporate four to six, 30 to 60-minute cardio sessions per week into your training schedule.</string>
+    <string name="hipoxia">Hipoxia</string>
+    <string name="result">Result</string>
+    <string name="temp">Temp</string>
+</resources>
